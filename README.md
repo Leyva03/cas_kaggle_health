@@ -1,5 +1,9 @@
 # Health Insurance Cross Sell Prediction 🏠 🏥
 
+## Autores
+
+Josep Riballo Moreno y Pau Leyva García 
+
 ## Contexto
 
 Este proyecto aborda el desafío de predecir si los asegurados de una compañía de seguros de salud estarán interesados en adquirir también un seguro de vehículo. Este modelo es clave para optimizar las estrategias de comunicación y maximizar los ingresos al contactar de manera efectiva a los clientes interesados.
@@ -104,19 +108,16 @@ En función de los resultados obtenidos:
 ### **Instrucciones**
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/usuario/health-insurance-prediction.git
+   git clone https://github.com/Leyva03/cas_kaggle_health
    ```
 2. Instalar las dependencias:  
    ```bash
    pip install -r requirements.txt
    ```
-3. Ejecutar el script principal:  
-   ```bash
-   python main.py
-   ```
+3. Ejecutar el notebook:
 
 ### **Archivos Principales**
-- `main.py`: Script principal que implementa el flujo del proyecto.
+- `CasKaggle.ipynb`: Script principal que implementa el flujo del proyecto.
 - `train.csv`, `test.csv`: Datasets de entrenamiento y prueba.
 - `README.md`: Detalles del proyecto.
 - `requirements.txt`: Dependencias del proyecto.
